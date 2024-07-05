@@ -10,7 +10,10 @@
 
 # Clone Repository
 
-To clone a repository on the local machine, use the following command:
+To clone a repository on the local machine, first open the folder to clone into. 
+Then right click and open the bash terminal.
+
+Do the following command:
 
 `git clone {repo_url}`
 
