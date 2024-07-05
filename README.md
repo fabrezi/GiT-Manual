@@ -17,6 +17,12 @@ Do the following command:
 
 `git clone {repo_url}`
 
+## Delete Repository
+
+How to delete a local branch on the local machine is a common activity:
+
+????
+
 ### References
 
 - https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/
