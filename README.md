@@ -1,5 +1,15 @@
 # Git
 
+Q. How to push code from local desktop to git repository?
+
+```
+git init
+git commit -m "msg"
+git remote add origin <link to the repo in github>
+git branch -M main
+git push -u origin main
+```
+
 
 # Content
 - History
